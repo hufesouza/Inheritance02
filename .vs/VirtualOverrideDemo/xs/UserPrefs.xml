@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{503D4FCE-05B1-436E-B44D-3E8A79CF26B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VirtualOverrideDemo/Dog.cs">
+    <Files>
+      <File FileName="VirtualOverrideDemo/Program.cs" Line="16" Column="2" />
+      <File FileName="VirtualOverrideDemo/Animal.cs" />
+      <File FileName="VirtualOverrideDemo/Dog.cs" Line="38" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VirtualOverrideDemo" expanded="True">
+            <Node name="VirtualOverrideDemo" expanded="True">
+              <Node name="Dog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VirtualOverrideDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

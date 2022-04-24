@@ -1,0 +1,15 @@
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/net5.0/VirtualOverrideDemo.deps.json
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/net5.0/VirtualOverrideDemo.runtimeconfig.json
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/net5.0/VirtualOverrideDemo.runtimeconfig.dev.json
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/net5.0/VirtualOverrideDemo.dll
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/net5.0/ref/VirtualOverrideDemo.dll
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/net5.0/VirtualOverrideDemo.pdb
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.csproj.AssemblyReference.cache
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.AssemblyInfoInputs.cache
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.AssemblyInfo.cs
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.dll
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/ref/VirtualOverrideDemo.dll
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.pdb
+/Users/hugof/Projects/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/net5.0/VirtualOverrideDemo.genruntimeconfig.cache
